@@ -49,9 +49,9 @@
 
 
 
+[web_js_css_frame](https://github.com/yyman001/web_js_css_frame)
 
-
-
+> 一些前端开发的干货,前端开发的干货,包含pc端,移动端js库,框架,css框架,工具等等
 
 #### 框架
 
@@ -88,6 +88,16 @@
 [v-bonjour](https://github.com/linmingdao/v-bonjour)
 
 > 基于Vue的前端通用开发框架
+
+
+
+##### 状态管理
+
+[Mobx](https://github.com/mobxjs/mobx)
+
+> Simple, scalable state management
+
+
 
 
 
