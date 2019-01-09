@@ -75,6 +75,14 @@
 
 
 
+**React组件**
+
+[react-pdf](https://github.com/wojtekmaj/react-pdf)
+
+> Display PDFs in your React app as easily as if they were images.
+
+
+
 ##### Vue
 
 [D2 Crud 组件库](https://github.com/d2-projects/d2-crud)
@@ -175,6 +183,12 @@
 [JSCPP](https://github.com/felixhao28/JSCPP)
 
 > Js解析c++
+
+
+
+[graphql](https://github.com/facebook/graphql)
+
+> GraphQL is a query language and execution engine tied to any backend service
 
 
 
