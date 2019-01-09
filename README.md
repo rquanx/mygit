@@ -254,6 +254,10 @@
 
 #### 学习
 
+##### 英语
+
+[An English Guide for Programmers](https://github.com/yujiangshui/An-English-Guide-for-Programmers?from=timeline&isappinstalled=0)
+
 ##### 日报
 
 [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
