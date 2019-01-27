@@ -37,12 +37,6 @@
 
 
 
-[Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)
-
-> flutter学习资料
-
-
-
 [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 > This list is a collection of various materials that I use every day in my work. It contains a lot of useful information gathered in one piece.
@@ -52,6 +46,46 @@
 [web_js_css_frame](https://github.com/yyman001/web_js_css_frame)
 
 > 一些前端开发的干货,前端开发的干货,包含pc端,移动端js库,框架,css框架,工具等等
+
+
+
+[horseshoe](https://github.com/veedrin/horseshoe)
+
+> 代号马蹄铁。以专题为单位的学习。目前已发布 { Git专题 } { Regex专题 } { Redux专题 } { React专题 } [https://veedrin.com](https://veedrin.com/)
+
+
+
+[HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+
+> 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️[https://hellogithub.com](https://hellogithub.com/)
+
+
+
+[CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+
+> Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc. <https://yuchengkai.cn/docs/frontend/>
+>
+> 前端小书
+
+
+
+##### Flutter
+
+[Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)
+
+> flutter学习资料
+
+
+
+[flutter-go](https://github.com/alibaba/flutter-go)
+
+> flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+
+
+
+
+
+
 
 #### 框架
 
@@ -75,11 +109,23 @@
 
 
 
-**React组件**
+###### React组件
 
 [react-pdf](https://github.com/wojtekmaj/react-pdf)
 
 > Display PDFs in your React app as easily as if they were images.
+
+
+
+[office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react)
+
+> React components for building experiences for Office and Office 365. [https://developer.microsoft.com/en-us…](https://developer.microsoft.com/en-us/fabric#/components)
+
+
+
+[shineout](https://github.com/sheinsight/shineout)
+
+> A components library for React <https://sheinsight.github.io/shineout>
 
 
 
@@ -107,6 +153,22 @@
 
 
 
+[redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial)
+
+> Redux 莞式教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰满的 Demo 等一条龙服务
+
+
+
+[react-redux-demo](https://github.com/kenberkeley/react-demo)
+
+> React 示例项目 · 简易留言板。本项目拥有完善的文档说明与注释，让您快速上手 React 开发 SPA。Webpack / ES6 + Babel / Redux / React Router —— An Excellent React Starter，可能是东半球最佳的 React Starter，基于 Vue Cli 二次开发
+
+
+
+[react-coat](https://github.com/wooline/react-coat)
+
+> Structured React + Redux with Typescript and support for isomorphic rendering beautifully(SSR)
+
 
 
 #### 构建工具
@@ -119,6 +181,10 @@
 
 
 
+[awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn)
+
+>  搜罗一切webpack的好文章好工具
+
 
 
 #### JavaScript
@@ -129,11 +195,23 @@
 
 > JavaScript 的工作原理系列文章，中文翻译
 
+
+
+[learn-regex-zh](https://github.com/cdoco/learn-regex-zh)
+
+> 学习正则表达式的简单方法
+
+
+
 ##### 代码风格
 
 [JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 > Airbnb的代码风格文档
+
+
+
+[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 
 
@@ -204,6 +282,14 @@
 
 
 
+[js-xlsx](https://github.com/SheetJS/js-xlsx)
+
+> js excel工具
+
+
+
+
+
 #### CSS
 
 [30 Seconds of **CSS**](https://github.com/30-seconds/30-seconds-of-css)
@@ -211,6 +297,10 @@
 > 常用代码片段
 
 
+
+[CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)
+
+> CSS Inspiration，在这里找到写 CSS 的灵感！ [https://chokcoco.github.io/CSS-Inspir…](https://chokcoco.github.io/CSS-Inspiration/#/./init)
 
 ### 版本控制
 
@@ -230,15 +320,35 @@
 
 
 
-### 梯子
+### 工具
 
-#### v2ray
+#### 系统
+
+[super - inspire](https://github.com/super-inspire/super-inspire-end)
+
+>在线快速生成linux服务器
+
+
+
+#### 梯子
+
+##### v2ray
 
 [v2ray-core](https://github.com/v2ray/v2ray-core)
 
 
 
+#### 抢票
+
+[py12306](https://github.com/pjialin/py12306)
+
+> 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理
+
+
+
 ### 其他
+
+
 
 #### 娱乐
 
@@ -290,11 +400,37 @@
 
 
 
+[早报](https://github.com/wubaiqing/zaobao)
+
+> 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
+
+
+
 ##### 博客
 
 [冴羽](https://github.com/mqyqingfeng/Blog)
 
 > 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+
+
+
+[blog](https://github.com/yygmind/blog)
+
+> 我是木易杨，网易高级前端工程师，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
+
+
+
+[article](https://github.com/webfansplz/article)
+
+> [[实践系列\]前端路由](https://github.com/webfansplz/article/issues/1)
+>
+> [[实践系列\]Babel 原理](https://github.com/webfansplz/article/issues/2)
+>
+> [[实践系列\]Promises/A+ 规范](https://github.com/webfansplz/article/issues/3)
+>
+> [[实践系列\]浏览器缓存](https://github.com/webfansplz/article/issues/4)
+
+
 
 
 
