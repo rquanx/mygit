@@ -83,7 +83,15 @@
 
 
 
+##### Book
 
+[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
+
+
+[Front End Books](https://github.com/lisposter/frontend-books)
+
+> 前端书籍推荐
 
 
 
@@ -134,6 +142,15 @@
 [D2 Crud 组件库](https://github.com/d2-projects/d2-crud)
 
 > 基于 Vue.js 和 Element UI 的表格组件，封装了常用的表格操作
+
+
+
+##### 样式框架
+
+[bootstrap](http://www.bootcss.com/)    
+
+> 样式库
+> example直接拿到需要的布局，将内容去除
 
 
 
@@ -256,7 +273,16 @@
 
 > PDF Reader in JavaScript,前端查看pdf库
 
+[jspdf](https://github.com/MrRio/jsPDF)
 
+> canvas转pdf？
+>
+> [html2canvas将html转pdf库](http://html2canvas.hertzen.com/configuration)
+>
+> 相关资料
+>
+> https://github.com/pwcong/how-transform-html-into-multipage-pdf
+> https://github.com/linwalker/render-html-to-pdf
 
 [camljs](https://github.com/andrei-markeev/camljs)
 
@@ -285,6 +311,12 @@
 [js-xlsx](https://github.com/SheetJS/js-xlsx)
 
 > js excel工具
+
+
+
+[fabric.js](http://fabricjs.com/)	   
+
+> 图片加工库，图片图片拖动,拉伸，图层叠加
 
 
 
