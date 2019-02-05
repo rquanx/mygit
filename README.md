@@ -220,6 +220,14 @@
 
 
 
+##### Book
+
+[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
+> js进阶必看
+
+
+
 ##### 代码风格
 
 [JavaScript Style Guide](https://github.com/airbnb/javascript)
@@ -320,6 +328,37 @@
 
 
 
+[Puppeteer](https://github.com/GoogleChrome/puppeteer)
+
+> Puppeteer是谷歌官方出品的一个通过DevTools协议控制headless Chrome的Node库。可以通过Puppeteer的提供的api直接控制Chrome模拟大部分用户操作来进行UI Test或者作为爬虫访问页面来收集数据
+
+
+
+[Portabletext](https://github.com/portabletext/portabletext)
+
+> 基于Json的副文本
+
+[Cloudquery](https://github.com/t9tio/cloudquery)
+
+> Turn any website to serverless API (support SPA!) 
+>
+> 将任何网站转为无服务器API
+
+[deno](https://github.com/denoland/deno)
+
+> A new way to JavaScript 
+>
+> node作者新项目
+
+[fabric.js](https://github.com/fabricjs/fabric.js)
+
+> 图片加工库，拖动，拉伸
+
+[JSUI](https://github.com/kitze/JSUI)
+
+> A powerful UI toolkit for managing JavaScript apps
+> 图形化管理package.json?
+
 
 
 #### CSS
@@ -333,6 +372,14 @@
 [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)
 
 > CSS Inspiration，在这里找到写 CSS 的灵感！ [https://chokcoco.github.io/CSS-Inspir…](https://chokcoco.github.io/CSS-Inspiration/#/./init)
+
+
+
+### Go
+
+[build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+
+> rt  go教程
 
 ### 版本控制
 
@@ -417,6 +464,10 @@
 ##### 英语
 
 [An English Guide for Programmers](https://github.com/yujiangshui/An-English-Guide-for-Programmers?from=timeline&isappinstalled=0)
+
+[English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+
+> 可能是让你受益匪浅的英语进阶指南
 
 ##### 日报
 
