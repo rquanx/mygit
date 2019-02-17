@@ -117,6 +117,14 @@
 
 
 
+##### React资源
+
+[awesome-react](https://github.com/enaqx/awesome-react)
+
+> A collection of awesome things regarding React ecosystem.
+
+
+
 ###### React组件
 
 [react-pdf](https://github.com/wojtekmaj/react-pdf)
@@ -361,6 +369,18 @@
 
 
 
+[flexsearch](https://github.com/nextapps-de/flexsearch)
+
+> Next-Generation full text search library for Browser and Node.js
+
+
+
+[codelf](https://github.com/unbug/codelf)
+
+>  Codelf(变量命名神器)
+
+
+
 #### CSS
 
 [30 Seconds of **CSS**](https://github.com/30-seconds/30-seconds-of-css)
@@ -381,6 +401,14 @@
 
 > rt  go教程
 
+
+
+### C
+
+[miniC-hosting](https://github.com/vasyop/miniC-hosting)
+
+> C语言在线运行分析，可查看堆栈信息
+
 ### 版本控制
 
 #### Git
@@ -398,6 +426,12 @@
 > 试题
 
 
+
+### 学术
+
+[论文排行](https://github.com/zziz/pwc)
+
+> Papers with code. Sorted by stars. Updated weekly.
 
 ### 工具
 
@@ -500,6 +534,12 @@
 [blog](https://github.com/yygmind/blog)
 
 > 我是木易杨，网易高级前端工程师，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！
+
+
+
+[Blog](https://github.com/coconilu/Blog)
+
+> 全栈工程师的思维宫殿
 
 
 
