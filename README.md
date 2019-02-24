@@ -11,6 +11,14 @@
 
 ### Web
 
+#### 个人网站
+
+[personal-website](https://github.com/github/personal-website)
+
+> 打造个人网站
+
+
+
 #### 学习资源
 
 [前端入门和进阶学习笔记](https://github.com/smyhvae/Web)
@@ -379,6 +387,14 @@
 
 >  Codelf(变量命名神器)
 
+#### HTML
+
+[Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)
+
+> A neural network that transforms a design mock-up into a static website
+>
+> 图片转Html
+
 
 
 #### CSS
@@ -409,6 +425,14 @@
 
 > C语言在线运行分析，可查看堆栈信息
 
+
+
+### 安全
+
+[Micro8](https://github.com/Micropoor/Micro8)
+
+> 安全知识gitbook
+
 ### 版本控制
 
 #### Git
@@ -429,7 +453,7 @@
 
 ### 学术
 
-[论文排行](https://github.com/zziz/pwc)
+[论文排行 pwc](https://github.com/zziz/pwc)
 
 > Papers with code. Sorted by stars. Updated weekly.
 
@@ -554,6 +578,10 @@
 > [[实践系列\]浏览器缓存](https://github.com/webfansplz/article/issues/4)
 
 
+
+[blog](https://github.com/HXWfromDJTU/blog)
+
+> 技术博客，记录日常工作学习的整理~欢迎star
 
 
 
