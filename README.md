@@ -280,12 +280,6 @@
 
 
 
-[Functional-Light JavaScript](Functional-Light JavaScript)
-
-> 轻量级的函数式编程库
-
-
-
 [reveal](https://github.com/hakimel/reveal.js)
 
 > A framework for easily creating beautiful presentations using HTML
@@ -293,54 +287,9 @@
 
 
 
-[pdf.js](https://github.com/mozilla/pdf.js)
-
-> PDF Reader in JavaScript,前端查看pdf库
-
-[jspdf](https://github.com/MrRio/jsPDF)
-
-> canvas转pdf？
->
-> [html2canvas将html转pdf库](http://html2canvas.hertzen.com/configuration)
->
-> 相关资料
->
-> https://github.com/pwcong/how-transform-html-into-multipage-pdf
-> https://github.com/linwalker/render-html-to-pdf
-
-[camljs](https://github.com/andrei-markeev/camljs)
-
-> sharepoint caml查询拼接库
-
-
-
-[JSCPP](https://github.com/felixhao28/JSCPP)
-
-> Js解析c++
-
-
-
 [graphql](https://github.com/facebook/graphql)
 
 > GraphQL is a query language and execution engine tied to any backend service
-
-
-
-[webglstudio.js](https://github.com/jagenjo/webglstudio.js)
-
-> A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.在线3D建模
-
-
-
-[js-xlsx](https://github.com/SheetJS/js-xlsx)
-
-> js excel工具
-
-
-
-[fabric.js](http://fabricjs.com/)	   
-
-> 图片加工库，图片图片拖动,拉伸，图层叠加
 
 
 
@@ -354,6 +303,8 @@
 
 > 基于Json的副文本
 
+
+
 [Cloudquery](https://github.com/t9tio/cloudquery)
 
 > Turn any website to serverless API (support SPA!) 
@@ -366,9 +317,7 @@
 >
 > node作者新项目
 
-[fabric.js](https://github.com/fabricjs/fabric.js)
 
-> 图片加工库，拖动，拉伸
 
 [JSUI](https://github.com/kitze/JSUI)
 
@@ -386,6 +335,115 @@
 [codelf](https://github.com/unbug/codelf)
 
 >  Codelf(变量命名神器)
+
+
+
+[cleave](https://github.com/nosir/cleave.js)
+
+> Format input text content when you are typing..
+>
+> 格式化输入
+
+
+
+###### 代码
+
+[js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)
+
+> 将代码转化为流程图
+
+
+
+[codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs)
+
+> 将目录转化为面包屑
+
+
+
+###### 编程范式
+
+[Functional-Light JavaScript](Functional-Light JavaScript)
+
+> 轻量级的函数式编程库
+
+
+
+###### 编译
+
+[JSCPP](https://github.com/felixhao28/JSCPP)
+
+> Js解析c++
+
+
+
+###### Document
+
+[js-xlsx](https://github.com/SheetJS/js-xlsx)
+
+> js excel工具
+
+
+
+###### 图形
+
+[fabric.js](https://github.com/fabricjs/fabric.js)
+
+> 图片加工库，拖动，拉伸
+
+
+
+[webglstudio.js](https://github.com/jagenjo/webglstudio.js)
+
+> A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.在线3D建模
+
+
+
+###### PDF
+
+[pdf.js](https://github.com/mozilla/pdf.js)
+
+> PDF Reader in JavaScript,前端查看pdf库
+
+[jspdf](https://github.com/MrRio/jsPDF)
+
+> canvas转pdf？
+>
+> [html2canvas将html转pdf库](http://html2canvas.hertzen.com/configuration)
+>
+> 相关资料
+>
+> https://github.com/pwcong/how-transform-html-into-multipage-pdf
+> https://github.com/linwalker/render-html-to-pdf
+
+
+
+###### SP
+
+[camljs](https://github.com/andrei-markeev/camljs)
+
+> sharepoint caml查询拼接库
+
+
+
+[pnpjs](https://github.com/pnp/pnpjs)
+
+> sharepoint rest api 封装
+
+
+
+[sp-pnp-node](https://github.com/koltyakov/sp-pnp-node)
+
+> 在Node中运行pnpjs
+
+
+
+[sp-jsom-node](https://github.com/koltyakov/sp-jsom-node)
+
+> 在Node中运行jsom
+
+
+
+
 
 #### HTML
 
