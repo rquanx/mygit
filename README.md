@@ -9,6 +9,18 @@
 
 ## Star分类
 
+### RoadMap
+
+[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+> 通用开发技能图
+
+
+
+[Node.js Developer Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)
+
+> Node.js技能图
+
 ### Web
 
 #### 个人网站
@@ -509,6 +521,18 @@
 
 
 
+[FEX 面试问题](https://github.com/fex-team/interview-questions)
+
+> 百度FEX 面试问题和标准
+
+
+
+[Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
+> 前端
+
+
+
 ### 学术
 
 [论文排行 pwc](https://github.com/zziz/pwc)
@@ -640,6 +664,20 @@
 [blog](https://github.com/HXWfromDJTU/blog)
 
 > 技术博客，记录日常工作学习的整理~欢迎star
+
+
+
+[best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs)
+
+> 收集优质的中文前端博客
+
+
+
+[awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs)
+
+> sorrycc
+
+
 
 
 
