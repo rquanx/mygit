@@ -282,9 +282,25 @@
 
 
 
+##### Node.js
+
+[package.json详解](<https://github.com/stereobooster/package.json>)
 
 
-##### 库
+
+##### TypeScript
+
+[TypeScript Deep Dive 中文版](<https://github.com/jkchao/typescript-book-chinese>)
+
+
+
+##### Vue
+
+[逐行级别的源码分析](<https://github.com/HcySunYang/vue-design>)
+
+
+
+##### 仓库
 
 [🇨🇳 汉字拼音 ➜ hàn zì pīn yīn ](https://github.com/hotoo/pinyin)
 
@@ -396,6 +412,12 @@
 
 
 
+[在线excel表格](<https://github.com/myliang/x-spreadsheet>)
+
+> A web-based JavaScript（canvas） spreadsheet 
+
+
+
 ###### 图形
 
 [fabric.js](https://github.com/fabricjs/fabric.js)
@@ -481,6 +503,20 @@
 
 
 
+#### 浏览器
+
+##### Chrome
+
+[Chrome插件英雄榜](<https://github.com/zhaoolee/ChromeAppHeroes>)
+
+
+
+### C#
+
+[.Net反编译](<https://github.com/0xd4d/dnSpy>)
+
+> .NET debugger and assembly editor
+
 ### Go
 
 [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
@@ -497,6 +533,16 @@
 
 
 
+### Python
+
+[图片转符号](<https://github.com/HeLiangHIT/code_banner>)
+
+> 高端大气上档气的banner生成工具和图案集合，python脚本
+>
+> 将图片转换成字符的形式
+
+
+
 ### 安全
 
 [Micro8](https://github.com/Micropoor/Micro8)
@@ -510,6 +556,14 @@
 [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 
 > Git常用命令集合，Fork于[tips](https://github.com/git-tips/tips)项目
+
+
+
+[git提交历史查看](<https://github.com/pomber/git-history>)
+
+> Quickly browse the history of a file from any git repository
+>
+> 将文件链接从github.com ==> github.githistory.xyz即可查看历史修改
 
 
 
