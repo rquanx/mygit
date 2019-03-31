@@ -137,11 +137,21 @@
 
 
 
-##### React资源
+###### React学习资源
 
 [awesome-react](https://github.com/enaqx/awesome-react)
 
 > A collection of awesome things regarding React ecosystem.
+
+
+
+[React 面试题 & 回答](<https://github.com/semlinker/reactjs-interview-questions>)
+
+> 从问题中学习react
+
+
+
+
 
 
 
@@ -242,11 +252,17 @@
 
 
 
+##### 正则
+
 [learn-regex-zh](https://github.com/cdoco/learn-regex-zh)
 
 > 学习正则表达式的简单方法
 
 
+
+[ChinaMobilePhoneNumberRegex](<https://github.com/VincentSit/ChinaMobilePhoneNumberRegex>)
+
+> 中文号码正则匹配
 
 ##### Book
 
@@ -374,6 +390,14 @@
 
 
 
+[uppy](<https://github.com/transloadit/uppy>)
+
+> 文件上传
+
+
+
+
+
 ###### 代码
 
 [js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)
@@ -479,6 +503,8 @@
 
 
 
+
+
 #### HTML
 
 [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)
@@ -491,11 +517,17 @@
 
 #### CSS
 
+
+
+##### Code
+
 [30 Seconds of **CSS**](https://github.com/30-seconds/30-seconds-of-css)
 
 > 常用代码片段
 
 
+
+##### 学习
 
 [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)
 
@@ -510,6 +542,30 @@
 [Chrome插件英雄榜](<https://github.com/zhaoolee/ChromeAppHeroes>)
 
 
+
+#### 仓库
+
+##### 日志
+
+[rrweb](<https://github.com/rrweb-io/rrweb>)
+
+> 记录web操作
+
+
+
+##### 学习
+
+[FE-booklet](<https://github.com/littlematch0123/FE-booklet>)
+
+> 小火柴前端册子
+
+
+
+##### Work
+
+[程序员如何优雅的挣零花钱？](<https://github.com/easychen/howto-make-more-money>)
+
+> 外包
 
 ### C#
 
@@ -653,6 +709,14 @@
 
 
 
+[955 不加班的公司名单](<https://github.com/formulahendry/955.WLB>)
+
+
+
+[996.ICU](<https://github.com/996icu/996.ICU>)
+
+
+
 #### 学习
 
 ##### 英语
@@ -663,7 +727,7 @@
 
 > 可能是让你受益匪浅的英语进阶指南
 
-##### 日报
+##### 日、周报
 
 [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 
@@ -680,6 +744,12 @@
 [早报](https://github.com/wubaiqing/zaobao)
 
 > 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
+
+
+
+[TNFE-Weekly](<https://github.com/Tnfe/TNFE-Weekly>)
+
+> 腾讯团队周报
 
 
 
