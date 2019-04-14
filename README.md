@@ -21,6 +21,12 @@
 
 > Node.js技能图
 
+
+
+[Awesome Stacks](<https://github.com/stackshareio/awesome-stacks>)
+
+> 技术栈
+
 ### Web
 
 #### 个人网站
@@ -151,7 +157,15 @@
 
 
 
+[React小书](<https://github.com/huzidaha/react-naive-book>)
 
+> 有点旧，不过关于redux的实现挺好
+
+
+
+[the-road-to-learn-react/the-road-to-learn-react-chinese](<https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese>)
+
+> 有点过于基础
 
 
 
@@ -543,6 +557,14 @@
 
 
 
+##### 调试工具
+
+[eruda](<https://github.com/liriliri/eruda>)
+
+> 移动端开发者工具
+
+
+
 #### 仓库
 
 ##### 日志
@@ -558,6 +580,20 @@
 [FE-booklet](<https://github.com/littlematch0123/FE-booklet>)
 
 > 小火柴前端册子
+
+
+
+##### 数据模拟
+
+[Mock.js](<https://github.com/nuysoft/Mock>)
+
+> 根据配置生成随机数据，拦截接口
+
+
+
+[easy-mock](<https://github.com/easy-mock/easy-mock>)
+
+> 基于mock.js的模拟平台，可视化
 
 
 
@@ -651,6 +687,14 @@
 
 ### 工具
 
+#### 项目集合
+
+[app-ideas](<https://github.com/florinpop17/app-ideas>)
+
+> 项目集合，可以选择做
+
+
+
 #### 系统
 
 [super - inspire](https://github.com/super-inspire/super-inspire-end)
@@ -717,6 +761,12 @@
 
 
 
+[996action](<https://github.com/CPdogson/996action>)
+
+> 
+
+
+
 #### 学习
 
 ##### 英语
@@ -731,7 +781,7 @@
 
 [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 
-> 对微博号 GitHubDaily 在 2018 年所发的微博进行分类整理
+> GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目
 
 
 
@@ -802,6 +852,10 @@
 > sorrycc
 
 
+
+[xg2xg](<https://github.com/jhuangtw-dev/xg2xg>)
+
+> google工程师
 
 
 
