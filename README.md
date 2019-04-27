@@ -197,6 +197,18 @@
 
 
 
+[vue-project-unitTest-with-jest](<https://github.com/holylovelqq/vue-unit-test-with-jest>)
+
+> Vue单元测试实例
+
+
+
+[vue-analysis](<https://github.com/ustbhuangyi/vue-analysis>)
+
+> Vue源码分析
+
+
+
 ##### 样式框架
 
 [bootstrap](http://www.bootcss.com/)    
@@ -603,6 +615,14 @@
 
 > 外包
 
+
+
+##### 加密
+
+[SecurityWorker](<https://github.com/qiaozi-tech/SecurityWorker>)
+
+> js加密
+
 ### C#
 
 [.Net反编译](<https://github.com/0xd4d/dnSpy>)
@@ -720,6 +740,10 @@
 
 
 ### 其他
+
+#### 能力
+
+[《我也有话要说》—— 普通人的当众讲话技能](<https://github.com/xiaolai/public-speaking-with-meaning>)
 
 
 
