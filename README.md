@@ -27,6 +27,18 @@
 
 > 技术栈
 
+
+
+[Web-Series](<https://github.com/wx-chevalier/Web-Series>)
+
+> 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
+
+
+
+[后端架构师技术图谱](<https://github.com/xingshaocheng/architect-awesome>)
+
+> 
+
 ### Web
 
 #### 个人网站
@@ -268,6 +280,12 @@
 
 
 
+[Webpack4 从零开始搭建 Vue 环境](<https://github.com/yywc/webpack-app>)
+
+> 思维导图
+
+
+
 #### JavaScript
 
 ##### 语言知识
@@ -422,9 +440,25 @@
 
 
 
+###### 知识点
+
+[JavaScript开发者应懂的33个概念](<https://github.com/stephentian/33-js-concepts>)
+
+> 知识点文章集合
+
+
+
+[Promise](<https://github.com/liubin/promises-book>)
+
+> JavaScript Promise迷你书
+
 
 
 ###### 代码
+
+[Leetcode题解](<https://github.com/azl397985856/leetcode>)
+
+> js题解
 
 [js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)
 
@@ -526,6 +560,12 @@
 > 在Node中运行jsom
 
 
+
+###### 校验
+
+[一个灵活的前端校验工具](<https://github.com/wtfjun/js-coi>)
+
+> 实现参考
 
 
 
@@ -629,6 +669,12 @@
 
 > .NET debugger and assembly editor
 
+
+
+[Swifter.Json](<https://github.com/Dogwei/Swifter.Json>)
+
+> JSON序列化、反序列化
+
 ### Go
 
 [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
@@ -707,6 +753,12 @@
 
 ### 工具
 
+#### 排行
+
+[Github星聚弃疗榜,](<https://github.com/zhaoolee/StarsAndClown>)
+
+> 
+
 #### 项目集合
 
 [app-ideas](<https://github.com/florinpop17/app-ideas>)
@@ -728,6 +780,12 @@
 ##### v2ray
 
 [v2ray-core](https://github.com/v2ray/v2ray-core)
+
+
+
+[jsproxy](<https://github.com/EtherDream/jsproxy>)
+
+> 在线翻墙
 
 
 
@@ -787,7 +845,11 @@
 
 [996action](<https://github.com/CPdogson/996action>)
 
-> 
+
+
+
+
+[support.996.ICU](<https://github.com/MSWorkers/support.996.ICU>)
 
 
 
@@ -824,6 +886,16 @@
 [TNFE-Weekly](<https://github.com/Tnfe/TNFE-Weekly>)
 
 > 腾讯团队周报
+
+
+
+[薄荷前端周刊](<https://github.com/BooheeFE/weekly>)
+
+
+
+[IVWEB技术周刊](<https://github.com/iv-web/weekly>)
+
+> 由腾讯IVWEB出品的《IVWEB技术周刊》
 
 
 
@@ -880,6 +952,18 @@
 [xg2xg](<https://github.com/jhuangtw-dev/xg2xg>)
 
 > google工程师
+
+
+
+[2bugua5](<https://github.com/sophister/2bugua5>)
+
+>  [React.js 的 state 碎碎念](<https://github.com/sophister/2bugua5/blob/master/category/react/react-state-recap/react-state-recap.md>)
+
+
+
+[node-index](<https://github.com/yanlele/node-index>)
+
+> 
 
 
 
