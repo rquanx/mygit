@@ -375,6 +375,7 @@
 
 
 
+
 [graphql](https://github.com/facebook/graphql)
 
 > GraphQL is a query language and execution engine tied to any backend service
@@ -398,6 +399,8 @@
 > Turn any website to serverless API (support SPA!) 
 >
 > 将任何网站转为无服务器API
+
+
 
 [deno](https://github.com/denoland/deno)
 
@@ -516,6 +519,12 @@
 
 
 
+[cropperjs](https://github.com/fengyuanchen/cropperjs)
+
+> 截图
+
+
+
 ###### PDF
 
 [pdf.js](https://github.com/mozilla/pdf.js)
@@ -561,11 +570,57 @@
 
 
 
+[sp-rest-proxy](<https://github.com/koltyakov/sp-rest-proxy>)
+
+> SP代理，可进行本地开发
+
 ###### 校验
 
 [一个灵活的前端校验工具](<https://github.com/wtfjun/js-coi>)
 
 > 实现参考
+
+
+
+###### 日志
+
+[lowdb](https://github.com/typicode/lowdb)
+
+> 前端日志存储
+
+
+
+###### 二维码
+
+[qrcodejs](<https://github.com/davidshimjs/qrcodejs>)
+
+> 二维码生成
+
+
+
+[jsqrcode](<https://github.com/LazarSoft/jsqrcode>)
+
+> 二维码扫描
+
+
+
+[JsQRScanner](<https://github.com/jbialobr/JsQRScanner>)
+
+> 二维码扫描
+
+
+
+[react-qr-reader](<https://github.com/JodusNodus/react-qr-reader>)
+
+> 基于React二维码扫描
+
+
+
+###### Music
+
+[NeteaseCloudMusicApi](<https://github.com/Binaryify/NeteaseCloudMusicApi>)
+
+> 网易云音乐 Node.js API service
 
 
 
@@ -803,6 +858,10 @@
 
 [《我也有话要说》—— 普通人的当众讲话技能](<https://github.com/xiaolai/public-speaking-with-meaning>)
 
+[韭菜的自我修养](<https://github.com/xiaolai/the-self-cultivation-of-leeks>)
+
+[自学是门手艺](<https://github.com/selfteaching/the-craft-of-selfteaching>)
+
 
 
 #### 娱乐
@@ -896,6 +955,12 @@
 [IVWEB技术周刊](<https://github.com/iv-web/weekly>)
 
 > 由腾讯IVWEB出品的《IVWEB技术周刊》
+
+
+
+[weekly](https://github.com/aliyunfe/weekly)
+
+> 阿里云周刊
 
 
 
