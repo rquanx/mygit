@@ -23,6 +23,12 @@
 
 
 
+[Nodejs-Roadmap](<https://github.com/Q-Angelo/Nodejs-Roadmap>)
+
+> Node.js技术栈
+
+
+
 [Awesome Stacks](<https://github.com/stackshareio/awesome-stacks>)
 
 > 技术栈
@@ -155,7 +161,7 @@
 
 
 
-###### React学习资源
+###### 学习资源
 
 [awesome-react](https://github.com/enaqx/awesome-react)
 
@@ -181,7 +187,7 @@
 
 
 
-###### React组件
+###### UI库
 
 [react-pdf](https://github.com/wojtekmaj/react-pdf)
 
@@ -198,6 +204,20 @@
 [shineout](https://github.com/sheinsight/shineout)
 
 > A components library for React <https://sheinsight.github.io/shineout>
+
+
+
+[precise-ui](<https://github.com/ZEISS/precise-ui>)
+
+> React UI Component Library powered by ZEISS
+
+
+
+###### 功能
+
+[recompose](<https://github.com/acdlite/recompose>)
+
+> A React utility belt for function components and higher-order components.
 
 
 
@@ -362,11 +382,7 @@
 
 ##### 仓库
 
-[🇨🇳 汉字拼音 ➜ hàn zì pīn yīn ](https://github.com/hotoo/pinyin)
-
-> 汉字拼音转换工具,转换中文字符为拼音。可以用于汉字注音、排序、检索
-
-
+###### 未分类
 
 [reveal](https://github.com/hakimel/reveal.js)
 
@@ -443,6 +459,26 @@
 
 
 
+[peerjs](<https://github.com/peers/peerjs>)
+
+> PeerJS provides a complete, configurable, and easy-to-use peer-to-peer API built on top of WebRTC, supporting both data channels and media streams.
+
+
+
+[cash](<https://github.com/kenwheeler/cash>)
+
+> 小JQuery
+
+
+
+[tippyjs](<https://github.com/atomiks/tippyjs>)
+
+> 对元素快速增加建议的提示
+
+
+
+
+
 ###### 知识点
 
 [JavaScript开发者应懂的33个概念](<https://github.com/stephentian/33-js-concepts>)
@@ -454,6 +490,20 @@
 [Promise](<https://github.com/liubin/promises-book>)
 
 > JavaScript Promise迷你书
+
+
+
+###### 汉字
+
+[🇨🇳 汉字拼音 ➜ hàn zì pīn yīn ](https://github.com/hotoo/pinyin)
+
+> 汉字拼音转换工具,转换中文字符为拼音。可以用于汉字注音、排序、检索
+
+
+
+[hanzi-writer](<https://github.com/chanind/hanzi-writer>)
+
+> Chinese character stroke order animations and practice quizzes ，汉字笔画
 
 
 
@@ -525,6 +575,14 @@
 
 
 
+[feather](<https://github.com/feathericons/feather>)
+
+> 开源图标
+
+
+
+
+
 ###### PDF
 
 [pdf.js](https://github.com/mozilla/pdf.js)
@@ -590,6 +648,12 @@
 
 
 
+[rrweb](https://github.com/rrweb-io/rrweb)
+
+> 记录web操作
+
+
+
 ###### 二维码
 
 [qrcodejs](<https://github.com/davidshimjs/qrcodejs>)
@@ -624,6 +688,40 @@
 
 
 
+###### 学习
+
+[FE-booklet](<https://github.com/littlematch0123/FE-booklet>)
+
+> 小火柴前端册子
+
+
+
+###### 数据模拟
+
+[Mock.js](<https://github.com/nuysoft/Mock>)
+
+> 根据配置生成随机数据，拦截接口
+
+
+
+[easy-mock](<https://github.com/easy-mock/easy-mock>)
+
+> 基于mock.js的模拟平台，可视化
+
+
+
+[mokia](<https://github.com/varHarrie/mokia>)
+
+> A mock server integrated data simulation and http service.
+
+
+
+###### 体验、引导
+
+[shepherd](<https://github.com/shipshapecode/shepherd>)
+
+> Guide your users through a tour of your app
+
 
 
 #### HTML
@@ -648,6 +746,12 @@
 
 
 
+[cssfx](<https://github.com/jolaleye/cssfx>)
+
+> Beautifully simple click-to-copy CSS effects 
+
+
+
 ##### 学习
 
 [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)
@@ -664,6 +768,10 @@
 
 
 
+[OctoLinker](<https://github.com/OctoLinker/OctoLinker>)
+
+> git import跳转
+
 ##### 调试工具
 
 [eruda](<https://github.com/liriliri/eruda>)
@@ -674,33 +782,11 @@
 
 #### 仓库
 
-##### 日志
-
-[rrweb](<https://github.com/rrweb-io/rrweb>)
-
-> 记录web操作
-
-
-
 ##### 学习
 
 [FE-booklet](<https://github.com/littlematch0123/FE-booklet>)
 
 > 小火柴前端册子
-
-
-
-##### 数据模拟
-
-[Mock.js](<https://github.com/nuysoft/Mock>)
-
-> 根据配置生成随机数据，拦截接口
-
-
-
-[easy-mock](<https://github.com/easy-mock/easy-mock>)
-
-> 基于mock.js的模拟平台，可视化
 
 
 
@@ -808,6 +894,30 @@
 
 ### 工具
 
+#### 文档
+
+[zeal](<https://github.com/zealdocs/zeal>)
+
+> Offline documentation browser inspired by Dash
+
+
+
+#### 终端
+
+[terminal](<https://github.com/microsoft/terminal>)
+
+> The new Windows Terminal, and the original Windows console host -- all in the same place!
+
+
+
+#### 轮子
+
+[build-your-own-x](<https://github.com/danistefanovic/build-your-own-x>)
+
+> 造轮子大全
+
+
+
 #### 排行
 
 [Github星聚弃疗榜,](<https://github.com/zhaoolee/StarsAndClown>)
@@ -852,6 +962,14 @@
 
 
 
+#### 公共API
+
+[public-apis](<https://github.com/toddmotto/public-apis>)
+
+> A collective list of free APIs for use in software and web development.
+
+
+
 ### 其他
 
 #### 能力
@@ -866,6 +984,8 @@
 
 #### 娱乐
 
+##### 游戏
+
 [GoBoy](https://github.com/Humpheh/goboy)
 
 > Multi-platform Nintendo Game Boy Color emulator written in Go,游戏模拟
@@ -878,11 +998,17 @@
 
 >  中文 DOS 游戏
 
-
+##### 表情包
 
 [EmojiPackage](https://github.com/getActivity/EmojiPackage)
 
 > 表情包仓库
+
+
+
+[ChineseBQB](<https://github.com/zhaoolee/ChineseBQB>)
+
+> 表情包
 
 
 
@@ -1029,6 +1155,12 @@
 [node-index](<https://github.com/yanlele/node-index>)
 
 > 
+
+
+
+[blog](<https://github.com/forthealllight/blog>)
+
+> Jony的博客，记录学习工作的点点滴滴
 
 
 
