@@ -187,7 +187,7 @@
 
 
 
-###### UI库
+###### UI、组件库
 
 [react-pdf](https://github.com/wojtekmaj/react-pdf)
 
@@ -218,6 +218,26 @@
 [recompose](<https://github.com/acdlite/recompose>)
 
 > A React utility belt for function components and higher-order components.
+
+
+
+[ink](https://github.com/vadimdemedes/ink)
+
+> React命令行
+
+
+
+[re-editor](https://github.com/wowlusitong/re-editor)
+
+> 副文本
+
+
+
+###### Starter
+
+[cdfang-spider](https://github.com/yhlben/cdfang-spider)
+
+> Apollo + Koa
 
 
 
@@ -365,6 +385,12 @@
 ##### Node.js
 
 [package.json详解](<https://github.com/stereobooster/package.json>)
+
+
+
+[How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly)
+
+> 如何正确的学习Node.js
 
 
 
@@ -640,6 +666,12 @@
 
 
 
+[v8n](https://github.com/imbrn/v8n)
+
+> JavaScript fluent validation library
+
+
+
 ###### 日志
 
 [lowdb](https://github.com/typicode/lowdb)
@@ -760,6 +792,14 @@
 
 
 
+##### 库
+
+[design-blocks](https://github.com/froala/design-blocks)
+
+> 基于Bootstrap的模板
+
+
+
 #### 浏览器
 
 ##### Chrome
@@ -804,6 +844,30 @@
 
 > js加密
 
+
+
+##### 组件
+
+[ui-libraries](https://github.com/jefflombard/ui-libraries)
+
+> 组件库收集
+
+
+
+##### 文件
+
+[filepond](https://github.com/pqina/filepond)
+
+> 文件上传
+
+
+
+##### 调试
+
+[vConsole](https://github.com/Tencent/vConsole)
+
+> 移动端控制台模拟
+
 ### C#
 
 [.Net反编译](<https://github.com/0xd4d/dnSpy>)
@@ -815,6 +879,10 @@
 [Swifter.Json](<https://github.com/Dogwei/Swifter.Json>)
 
 > JSON序列化、反序列化
+
+
+
+[wpf](https://github.com/dotnet/wpf)
 
 ### Go
 
@@ -842,6 +910,14 @@
 
 
 
+
+
+### Dart
+
+[FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
+
+> flutter模拟豆瓣
+
 ### 安全
 
 [Micro8](https://github.com/Micropoor/Micro8)
@@ -865,6 +941,10 @@
 > 将文件链接从github.com ==> github.githistory.xyz即可查看历史修改
 
 
+
+[github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+
+> Git 和 Github 秘籍
 
 ### 面试
 
@@ -970,6 +1050,18 @@
 
 
 
+#### 下载
+
+[Motrix](https://github.com/agalwood/Motrix)
+
+> 下载工具
+
+
+
+[gopeed](https://github.com/monkeyWie/gopeed)
+
+
+
 ### 其他
 
 #### 能力
@@ -997,6 +1089,12 @@
 [chinese-dos-games-web](https://github.com/rwv/chinese-dos-games-web)
 
 >  中文 DOS 游戏
+
+
+
+[gameboy.live](https://github.com/HFO4/gameboy.live)
+
+> 在线gameboy
 
 ##### 表情包
 
@@ -1171,6 +1269,12 @@
 [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
 > 一些对程序员有用的网站
+
+
+
+#### 随便Star
+
+[plat-manager-pc](https://github.com/gagayang/plat-manager-pc)
 
 
 
