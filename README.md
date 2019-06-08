@@ -326,6 +326,12 @@
 
 
 
+[webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard)
+
+> webpack界面信息美化
+
+
+
 #### JavaScript
 
 ##### 语言知识
@@ -391,6 +397,16 @@
 [How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly)
 
 > 如何正确的学习Node.js
+
+
+
+###### 后台框架
+
+[koa2-note](https://github.com/chenshenhai/koa2-note)
+
+
+
+[zero](https://github.com/remoteinterview/zero)
 
 
 
@@ -756,6 +772,32 @@
 
 
 
+###### 终端
+
+[Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+
+> 终端交互
+
+
+
+[chalk](https://github.com/chalk/chalk)
+
+> 终端输出样式
+
+
+
+[ora](https://github.com/sindresorhus/ora)
+
+> 终端loading
+
+
+
+[shelljs](https://github.com/shelljs/shelljs)
+
+> 终端shell执行
+
+
+
 #### HTML
 
 [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)
@@ -797,6 +839,12 @@
 [design-blocks](https://github.com/froala/design-blocks)
 
 > 基于Bootstrap的模板
+
+
+
+[pickr](https://github.com/Simonwep/pickr)
+
+> 取色器
 
 
 
@@ -854,6 +902,12 @@
 
 
 
+[awesome-uikit](https://github.com/jaywcjlove/awesome-uikit)
+
+> 框架、组件库记录
+
+
+
 ##### 文件
 
 [filepond](https://github.com/pqina/filepond)
@@ -867,6 +921,22 @@
 [vConsole](https://github.com/Tencent/vConsole)
 
 > 移动端控制台模拟
+
+
+
+##### 视频
+
+[DPlayer](https://github.com/MoePlayer/DPlayer)
+
+> H5播放器
+
+
+
+##### 音频
+
+[sound-processor](https://github.com/woshizja/sound-processor)
+
+> A small, dependency-free sound processor. Include a-weighting, time-weighting, gaussian filter, octave divide.
 
 ### C#
 
@@ -917,6 +987,20 @@
 [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
 > flutter模拟豆瓣
+
+
+
+[GSYFlutterBook](https://github.com/CarGuo/GSYFlutterBook)
+
+> Flutter完整开发实战详解系列
+
+
+
+### Shell
+
+[explainshell](https://github.com/idank/explainshell)
+
+> shell指令说明
 
 ### 安全
 
@@ -971,6 +1055,20 @@
 [论文排行 pwc](https://github.com/zziz/pwc)
 
 > Papers with code. Sorted by stars. Updated weekly.
+
+
+
+#### 算法
+
+[algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+
+> 在线可视化算法
+
+
+
+[dsa.js](https://github.com/amejiarosario/dsa.js)
+
+> Data Structures and Algorithms explained and implemented in JavaScript
 
 ### 工具
 
@@ -1128,13 +1226,9 @@
 
 [996action](<https://github.com/CPdogson/996action>)
 
-
-
-
-
 [support.996.ICU](<https://github.com/MSWorkers/support.996.ICU>)
 
-
+[Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland)
 
 #### 学习
 
