@@ -304,6 +304,16 @@
 
 
 
+
+
+##### 模板示例
+
+[fullstack](https://github.com/TrillCyborg/fullstack)
+
+> React/ApolloGraphQL/Node/Mongo demo written in Typescript
+
+
+
 #### 构建工具
 
 ##### Webpack
@@ -369,6 +379,12 @@
 > Airbnb的代码风格文档
 
 
+
+[standard](https://github.com/standard/standard)
+
+> JavaScript Style Guide, with linter & automatic code fixer
+>
+> 代码规范、自动修正
 
 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
@@ -772,6 +788,14 @@
 
 
 
+###### 数据库
+
+[rxdb](https://github.com/pubkey/rxdb)
+
+>A realtime Database for JavaScript Applications
+
+
+
 ###### 终端
 
 [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
@@ -795,6 +819,20 @@
 [shelljs](https://github.com/shelljs/shelljs)
 
 > 终端shell执行
+
+
+
+[xterm.js](https://github.com/xtermjs/xterm.js)
+
+> A terminal for the web
+
+
+
+###### MVVM
+
+[mvvm](https://github.com/DMQ/mvvm)
+
+> 剖析vue实现原理，自己动手实现mvvm
 
 
 
@@ -878,6 +916,12 @@
 
 
 
+[aofe.images](https://github.com/phodal/aofe.images)
+
+> 《前端架构：从入门到微前端》原图，image for Architecture of Frontend
+
+
+
 ##### Work
 
 [程序员如何优雅的挣零花钱？](<https://github.com/easychen/howto-make-more-money>)
@@ -916,6 +960,12 @@
 
 
 
+[FileSaver.js](https://github.com/eligrey/FileSaver.js)
+
+> An HTML5 saveAs() FileSaver implementation
+
+
+
 ##### 调试
 
 [vConsole](https://github.com/Tencent/vConsole)
@@ -937,6 +987,20 @@
 [sound-processor](https://github.com/woshizja/sound-processor)
 
 > A small, dependency-free sound processor. Include a-weighting, time-weighting, gaussian filter, octave divide.
+
+
+
+##### 工具库
+
+[clipboardy](https://github.com/sindresorhus/clipboardy)
+
+> 跨平台剪切板处理
+
+
+
+[readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+
+> README生成
 
 ### C#
 
@@ -1002,6 +1066,14 @@
 
 > shell指令说明
 
+
+
+### SQL
+
+[soar](https://github.com/XiaoMi/soar)
+
+> sql优化，SQL Optimizer And Rewriter
+
 ### 安全
 
 [Micro8](https://github.com/Micropoor/Micro8)
@@ -1030,6 +1102,14 @@
 
 > Git 和 Github 秘籍
 
+
+
+### 资料
+
+[from_coder_to_expert](https://github.com/0voice/from_coder_to_expert)
+
+> 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+
 ### 面试
 
 [30 Seconds of Interviews](https://github.com/30-seconds/30-seconds-of-interviews)
@@ -1055,6 +1135,14 @@
 [论文排行 pwc](https://github.com/zziz/pwc)
 
 > Papers with code. Sorted by stars. Updated weekly.
+
+
+
+#### 计算机知识
+
+[hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)
+
+> 对开发人员有用的定律、理论、原则和模式
 
 
 
@@ -1176,6 +1264,14 @@
 
 ##### 游戏
 
+[gb-studio](https://github.com/chrismaltby/gb-studio)
+
+> A free and easy to use retro adventure game creator for your favourite handheld video game system
+>
+> gameboy游戏制作
+
+
+
 [GoBoy](https://github.com/Humpheh/goboy)
 
 > Multi-platform Nintendo Game Boy Color emulator written in Go,游戏模拟
@@ -1205,6 +1301,14 @@
 [ChineseBQB](<https://github.com/zhaoolee/ChineseBQB>)
 
 > 表情包
+
+
+
+##### 杂
+
+[qdaily_backup](https://github.com/LampScript/qdaily_backup)
+
+> 好奇心日报备份
 
 
 
@@ -1239,6 +1343,14 @@
 [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)
 
 > 可能是让你受益匪浅的英语进阶指南
+
+
+
+[most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)
+
+> 程序员工作中常见的英语词汇
+
+
 
 ##### 日、周报
 
@@ -1283,6 +1395,18 @@
 
 
 ##### 博客
+
+[blog](https://github.com/godkun/blog)
+
+> 前端狂想录
+
+
+
+[blog](https://github.com/fouber/blog)
+
+> 云龙博客，前端发展思考
+
+
 
 [冴羽](https://github.com/mqyqingfeng/Blog)
 
