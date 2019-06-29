@@ -233,6 +233,10 @@
 
 
 
+[react-bmap](https://github.com/huiyan-fe/react-bmap)
+
+> 基于百度地图JavaScript API封装的React组件库
+
 ###### Starter
 
 [cdfang-spider](https://github.com/yhlben/cdfang-spider)
@@ -407,6 +411,12 @@
 ##### Node.js
 
 [package.json详解](<https://github.com/stereobooster/package.json>)
+
+
+
+[node-fs-extra](https://github.com/jprichardson/node-fs-extra)
+
+> Promsie的文件操作
 
 
 
@@ -704,6 +714,12 @@
 
 
 
+[JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
+
+> 正则链式调用
+
+
+
 ###### 日志
 
 [lowdb](https://github.com/typicode/lowdb)
@@ -843,6 +859,14 @@
 > A neural network that transforms a design mock-up into a static website
 >
 > 图片转Html
+
+
+
+#### OCR
+
+[tesseract.js](https://github.com/naptha/tesseract.js)
+
+> Pure Javascript OCR for more than 100 Languages 
 
 
 
@@ -1059,6 +1083,10 @@
 > Flutter完整开发实战详解系列
 
 
+
+[GSYFlutterDemo](https://github.com/CarGuo/GSYFlutterDemo)
+
+> 不同于 GSYGithubAppFlutter 完整项目，本项目将逐步完善各种 Flutter 独立例子，方便新手学习上手和小问题方案解决。
 
 ### Shell
 
