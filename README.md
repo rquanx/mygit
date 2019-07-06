@@ -213,6 +213,12 @@
 
 
 
+[react-kawaii](https://github.com/miukimiu/react-kawaii)
+
+> kawaii动画组件
+
+
+
 ###### 功能
 
 [recompose](<https://github.com/acdlite/recompose>)
@@ -247,12 +253,6 @@
 
 ##### Vue
 
-[D2 Crud 组件库](https://github.com/d2-projects/d2-crud)
-
-> 基于 Vue.js 和 Element UI 的表格组件，封装了常用的表格操作
-
-
-
 [vue-project-unitTest-with-jest](<https://github.com/holylovelqq/vue-unit-test-with-jest>)
 
 > Vue单元测试实例
@@ -262,6 +262,22 @@
 [vue-analysis](<https://github.com/ustbhuangyi/vue-analysis>)
 
 > Vue源码分析
+
+
+
+###### 组件
+
+[D2 Crud 组件库](https://github.com/d2-projects/d2-crud)
+
+> 基于 Vue.js 和 Element UI 的表格组件，封装了常用的表格操作
+
+
+
+###### 功能
+
+[v-track](https://github.com/l-hammer/v-track)
+
+> 基于Vue指令实现的埋点插件
 
 
 
@@ -358,6 +374,8 @@
 
 ##### 正则
 
+[learn-regex](https://github.com/ziishaned/learn-regex)
+
 [learn-regex-zh](https://github.com/cdoco/learn-regex-zh)
 
 > 学习正则表达式的简单方法
@@ -451,6 +469,10 @@
 ##### 仓库
 
 ###### 未分类
+
+[ faast.js](https://github.com/faastjs/faast.js)
+
+> 提供Serverless函数操作 
 
 [reveal](https://github.com/hakimel/reveal.js)
 
@@ -623,7 +645,7 @@
 
 
 
-###### 图形
+###### 图形/图标/画图
 
 [fabric.js](https://github.com/fabricjs/fabric.js)
 
@@ -648,6 +670,16 @@
 > 开源图标
 
 
+
+[RemixIcon](https://github.com/Remix-Design/RemixIcon)
+
+> 开源图标库
+
+
+
+[js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams)
+
+> 手绘风格流程图
 
 
 
@@ -1108,6 +1140,12 @@
 
 > 安全知识gitbook
 
+
+
+[The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
+
+> 对 The Hacker Playbook 3 的翻译
+
 ### 版本控制
 
 #### Git
@@ -1422,7 +1460,19 @@
 
 
 
+[fe-interview](https://github.com/haizlin/fe-interview)
+
+> 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+
+
+
 ##### 博客
+
+[awesome-fe-study-source](https://github.com/KieSun/awesome-fe-study-source)
+
+> 前端资料收集
+
+
 
 [blog](https://github.com/godkun/blog)
 
