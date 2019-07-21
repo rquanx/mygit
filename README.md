@@ -251,6 +251,12 @@
 
 
 
+[lottie-web](https://github.com/airbnb/lottie-web)
+
+> Render After Effects animations natively on Web, Android and iOS, and React Native.多平台动画
+
+
+
 ##### Vue
 
 [vue-project-unitTest-with-jest](<https://github.com/holylovelqq/vue-unit-test-with-jest>)
@@ -1046,6 +1052,14 @@
 
 
 
+##### 原型相关
+
+[html-sketchapp](https://github.com/brainly/html-sketchapp)
+
+> HTML to Sketch export solution
+
+
+
 ##### 工具库
 
 [clipboardy](https://github.com/sindresorhus/clipboardy)
@@ -1224,6 +1238,14 @@
 
 > Data Structures and Algorithms explained and implemented in JavaScript
 
+
+
+#### 编译
+
+[the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+
+> Possibly the smallest compiler ever ，编译器学习
+
 ### 工具
 
 #### 文档
@@ -1313,6 +1335,14 @@
 [gopeed](https://github.com/monkeyWie/gopeed)
 
 
+
+#### 编辑器相关
+
+[schemastore](https://github.com/SchemaStore/schemastore)
+
+> A collection of JSON schema files including full API
+>
+> 配置文件提示
 
 ### 其他
 
