@@ -189,6 +189,12 @@
 
 ###### UI、组件库
 
+[ react-select](https://github.com/JedWatson/react-select)
+
+> rt，选择组件
+
+
+
 [react-pdf](https://github.com/wojtekmaj/react-pdf)
 
 > Display PDFs in your React app as easily as if they were images.
@@ -648,6 +654,12 @@
 [在线excel表格](<https://github.com/myliang/x-spreadsheet>)
 
 > A web-based JavaScript（canvas） spreadsheet 
+
+
+
+[jexcel](https://github.com/paulhodel/jexcel)
+
+> js实现前端Excek
 
 
 
@@ -1604,4 +1616,28 @@
 
 
 
-## 仓库
+## 通用仓库
+
+### 项目
+
+[gitignore](https://github.com/github/gitignore)
+
+> git ignore模板
+
+
+
+### 计算机
+
+#### 编译
+
+[LangSandbox](https://github.com/ftomassetti/LangSandbox)
+
+> Project to illustrate how to build a programming language
+>
+> 制作自己的编程语言？
+
+
+
+[the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+
+> 编译器
