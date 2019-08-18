@@ -249,6 +249,14 @@
 
 > 基于百度地图JavaScript API封装的React组件库
 
+
+
+[react-code-preview](https://github.com/uiwjs/react-code-preview)
+
+> react代码预览
+
+
+
 ###### Starter
 
 [cdfang-spider](https://github.com/yhlben/cdfang-spider)
@@ -663,6 +671,12 @@
 
 
 
+[FileAPI](https://github.com/mailru/FileAPI)
+
+> 文件操作
+
+
+
 ###### 图形/图标/画图
 
 [fabric.js](https://github.com/fabricjs/fabric.js)
@@ -767,6 +781,12 @@
 [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
 
 > 正则链式调用
+
+
+
+[hello-type](https://github.com/tangshuang/hello-type)
+
+> 类型校验
 
 
 
@@ -1100,6 +1120,12 @@
 
 [wpf](https://github.com/dotnet/wpf)
 
+
+
+[Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility)
+
+> 工具类大全
+
 ### Go
 
 [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
@@ -1129,6 +1155,18 @@
 
 
 ### Dart
+
+
+
+[flutter-in-action](https://github.com/flutterchina/flutter-in-action)
+
+> 《Flutter实战》电子书
+
+
+
+[flutter-todos](https://github.com/asjqkkkk/flutter-todos)
+
+
 
 [FlutterDouBan](https://github.com/kaina404/FlutterDouBan)
 
@@ -1356,6 +1394,14 @@
 >
 > 配置文件提示
 
+
+
+#### 社交
+
+[anhkgg / SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC)
+
+> 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
+
 ### 其他
 
 #### 能力
@@ -1365,6 +1411,10 @@
 [韭菜的自我修养](<https://github.com/xiaolai/the-self-cultivation-of-leeks>)
 
 [自学是门手艺](<https://github.com/selfteaching/the-craft-of-selfteaching>)
+
+[regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)
+
+> 定投改变命运 —— 让时间陪你慢慢变富
 
 
 
