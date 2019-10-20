@@ -1,4 +1,4 @@
-# 计算机
+
 
 ## 通用
 
@@ -10,7 +10,13 @@
 
 ### 面试
 
+[reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
 
+> 技术面试最后反问面试官的话
+>
+> [reverse-interview](https://github.com/viraptor/reverse-interview)
+>
+> > 原版
 
 ### 学术
 
@@ -84,7 +90,23 @@
 
 
 
+### 软技能
 
+#### 提问
+
+[How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+
+> 提问的智慧
+
+
+
+### 规范
+
+#### 提交
+
+[conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org)
+
+> 提交规范
 
 
 
@@ -173,6 +195,10 @@
 [Front End Books](https://github.com/lisposter/frontend-books)
 
 > 前端书籍推荐
+
+
+
+[es6tutorial](https://github.com/ruanyf/es6tutorial)
 
 
 
@@ -368,6 +394,10 @@
 
 ##### Vue
 
+[vue-next](https://github.com/vuejs/vue-next)
+
+> vue 3.0
+
 
 
 ###### 资料
@@ -449,6 +479,28 @@
 
 
 
+#### 日志监控
+
+[bombayjs](https://github.com/bombayjs/bombayjs)
+
+> 前端监控sdk
+
+
+
+#### 画图
+
+[rough](https://github.com/pshihn/rough)
+
+> 手绘风格
+
+
+
+#### 应用
+
+##### 虚拟DOM
+
+[snabbdom](https://github.com/snabbdom/snabbdom)
+
 
 
 
@@ -487,7 +539,9 @@
 
 ### Go
 
+#### 规范
 
+[guide](https://github.com/uber-go/guide)
 
 ### Shell
 
@@ -507,7 +561,20 @@
 
 ## 工具
 
+#### 文件
+
+[folder-explorer](https://github.com/d2-projects/folder-explorer)
+
+> 文件树工具
 
 
 
+#### 开
 
+[bustag](https://github.com/gxtrobot/bustag)
+
+
+
+### 排行榜
+
+[GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
