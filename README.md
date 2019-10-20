@@ -43,7 +43,7 @@
 
 [后端架构师技术图谱](<https://github.com/xingshaocheng/architect-awesome>)
 
-> 
+
 
 ### Web
 
@@ -137,6 +137,10 @@
 
 > 前端书籍推荐
 
+#### 
+
+
+
 
 
 #### 框架
@@ -189,6 +193,10 @@
 
 ###### UI、组件库
 
+[mui-org / material-ui](https://github.com/mui-org/material-ui)
+
+> 谷歌开源组件库
+
 [ react-select](https://github.com/JedWatson/react-select)
 
 > rt，选择组件
@@ -226,6 +234,12 @@
 
 
 ###### 功能
+
+[jaredpalmer / formik](https://github.com/jaredpalmer/formik)
+
+> react form组件
+
+
 
 [recompose](<https://github.com/acdlite/recompose>)
 
@@ -320,21 +334,7 @@
 
 ##### 状态管理
 
-[Mobx](https://github.com/mobxjs/mobx)
-
-> Simple, scalable state management
-
-
-
-[redux-simple-tutorial](https://github.com/kenberkeley/redux-simple-tutorial)
-
-> Redux 莞式教程。本教程深入浅出，配套入门、进阶源码解读以及文档注释丰满的 Demo 等一条龙服务
-
-
-
-[react-redux-demo](https://github.com/kenberkeley/react-demo)
-
-> React 示例项目 · 简易留言板。本项目拥有完善的文档说明与注释，让您快速上手 React 开发 SPA。Webpack / ES6 + Babel / Redux / React Router —— An Excellent React Starter，可能是东半球最佳的 React Starter，基于 Vue Cli 二次开发
+> ​		
 
 
 
@@ -361,6 +361,8 @@
 [webpack](https://github.com/webpack/webpack)
 
 > A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+
+# 进度
 
 
 
@@ -489,6 +491,78 @@
 ##### 仓库
 
 ###### 未分类
+
+[GavinZhuLei / vue-form-making](https://github.com/GavinZhuLei/vue-form-making)
+
+> 基于vue的表单设计器
+
+
+
+[ifrontend-xyz / research](https://github.com/ifrontend-xyz/research)
+
+> 好用的搜索工具,快速搜索相关内容，整合百度、微博、知乎、微信、语雀、京东等搜索结果
+
+
+
+[BetterJS / badjs-report](https://github.com/BetterJS/badjs-report)
+
+> 腾讯开源日志
+
+
+
+[Qix- / color](https://github.com/Qix-/color)
+
+> 颜色处理？
+
+[chenshenhai / pictool](https://github.com/chenshenhai/pictool)
+
+> 图片滤镜
+
+[goldbergyoni / javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
+> js单元测试
+
+
+
+[YaroslavGaponov / node-jvm](https://github.com/YaroslavGaponov/node-jvm)
+
+> js实现jvm
+
+
+
+[liyasthomas / postwoman](https://github.com/liyasthomas/postwoman)
+
+> 约等于网页postman
+
+[NeXTs / Clusterize.js](https://github.com/NeXTs/Clusterize.js)
+
+> 大量数据展示、虚拟列表
+
+
+
+[TerryZ / v-region](https://github.com/TerryZ/v-region)
+
+> vue地区选择器
+
+
+
+[gu-xionghong / lodash-analysis](https://github.com/gu-xionghong/lodash-analysis)
+
+> lodash v5.0.0(Unpublished) 源码阅读
+
+
+
+[rover95 / morse-encrypt](https://github.com/rover95/morse-encrypt)
+
+> 基于零宽字符和摩斯电码的隐藏文本加密 || Text hiding encryption、Morse code encryption
+
+
+
+[givanz / VvvebJs](https://github.com/givanz/VvvebJs)
+
+> 图形化开发
+
+
 
 [ faast.js](https://github.com/faastjs/faast.js)
 
@@ -677,6 +751,28 @@
 
 
 
+[dolanmiu / docx](https://github.com/dolanmiu/docx)
+
+> Easily generate .docx files with JS/TS with a solid API. Works for Node and on the Browser.
+>
+> js操作word
+
+
+
+[foliojs / pdfkit](https://github.com/foliojs/pdfkit)
+
+> PDF生成
+
+
+
+
+
+###### 动画
+
+[HigoYuyue / canvas-animation](https://github.com/HigoYuyue/canvas-animation)
+
+> canvas动画教程资料
+
 ###### 图形/图标/画图
 
 [fabric.js](https://github.com/fabricjs/fabric.js)
@@ -712,6 +808,12 @@
 [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams)
 
 > 手绘风格流程图
+
+
+
+[timqian / chart.xkcd](https://github.com/timqian/chart.xkcd)
+
+> 手绘风格图形库
 
 
 
@@ -1156,7 +1258,9 @@
 
 ### Dart
 
+[YYFlutter / flutter-ui](https://github.com/YYFlutter/flutter-ui)
 
+> flutter组件资料？
 
 [flutter-in-action](https://github.com/flutterchina/flutter-in-action)
 
@@ -1183,6 +1287,46 @@
 [GSYFlutterDemo](https://github.com/CarGuo/GSYFlutterDemo)
 
 > 不同于 GSYGithubAppFlutter 完整项目，本项目将逐步完善各种 Flutter 独立例子，方便新手学习上手和小问题方案解决。
+
+
+
+[dancamdev / effectively_scale_UI_according_to_different_screen_sizes](https://github.com/dancamdev/effectively_scale_UI_according_to_different_screen_sizes)
+
+> 屏幕适配
+
+
+
+
+
+#### widget
+
+[blankapp / flutter-widget-livebook](https://github.com/blankapp/flutter-widget-livebook)
+
+> Live preview example for flutter widgets
+>
+> 在线预览widget
+
+
+
+[best-flutter / flutter_swiper](https://github.com/best-flutter/flutter_swiper)
+
+> 轮播
+
+
+
+#### HTTP
+
+[flutterchina / dio](https://github.com/flutterchina/dio)
+
+> A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
+
+
+
+#### 资料
+
+[Solido / awesome-flutter](https://github.com/Solido/awesome-flutter)
+
+> awesome系列
 
 ### Shell
 
@@ -1650,6 +1794,16 @@
 
 
 
+[biaochenxuying / blog](https://github.com/biaochenxuying/blog)
+
+> 技术为主，读书笔记、随笔、理财为辅，做个终身学习者
+
+
+
+[Nealyang / PersonalBlog](https://github.com/Nealyang/PersonalBlog)
+
+> 
+
 ##### 论坛、网站
 
 [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
@@ -1675,6 +1829,10 @@
 > git ignore模板
 
 
+
+[google / eng-practices](https://github.com/google/eng-practices)
+
+> 谷歌开源，code review文档
 
 ### 计算机
 
