@@ -20,6 +20,20 @@
 
 ### 学术
 
+[ossu / computer-science](https://github.com/ossu/computer-science)
+
+> Path to a free self-taught education in Computer Science!自学计算机
+
+
+
+
+
+#### 书
+
+[wizardforcel / sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)
+
+> python版scip中文翻译
+
 
 
 ### 网络
@@ -56,7 +70,11 @@
 
 
 
+##### 前端
 
+[KieSun / FE-advance-road](https://github.com/KieSun/FE-advance-road)
+
+> 进阶轮子
 
 
 
@@ -65,6 +83,12 @@
 [personal-website](https://github.com/github/personal-website)
 
 > 打造个人网站
+
+
+
+[timqian / chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
+
+> 中文独立博客列表
 
 
 
@@ -82,11 +106,33 @@
 
 
 
-#### 周报、合集
+#### 日、周报、合集
 
 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 
 > 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️[https://hellogithub.com](https://hellogithub.com/)
+
+
+
+[shfshanyue / Daily-Question](https://github.com/shfshanyue/Daily-Question)
+
+> 每天一道面试题，有关前端，后端，devops以及软技能，促进职业成长，敲开大厂之门。
+
+
+
+#### 面试
+
+[yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
+>  Materials to help you rock your next coding interview
+
+
+
+#### 网站
+
+[sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+> Some useful websites for programmers.程序员可用的网站
 
 
 
@@ -107,6 +153,18 @@
 [conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org)
 
 > 提交规范
+
+
+
+#### API
+
+##### rest api
+
+[microsoft / api-guidelines](https://github.com/microsoft/api-guidelines)
+
+> Microsoft REST API Guidelines
+
+
 
 
 
@@ -186,6 +244,12 @@
 
 
 
+[goldbergyoni / nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+
+> node.js最佳实践
+
+
+
 #### 书
 
 [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
@@ -199,6 +263,12 @@
 
 
 [es6tutorial](https://github.com/ruanyf/es6tutorial)
+
+
+
+[natpagle](https://github.com/hex-translate/natpagle)
+
+> 函数式编程，《Functional Programming in JavaScrip》 中文翻译
 
 
 
@@ -224,13 +294,25 @@
 
 ###### 应用
 
+[React-Proto / react-proto](https://github.com/React-Proto/react-proto)
+
+> react原型开发工具
+
+
+
 [react-multi-page-app](https://github.com/leinov/react-multi-page-app)
 
 > react多页应用demo
 
 
 
-###### 资源
+[zeit / swr](https://github.com/zeit/swr)
+
+> React Hooks library for remote data fetching，数据获取
+
+
+
+###### 学习资源
 
 [awesome-react](https://github.com/enaqx/awesome-react)
 
@@ -258,9 +340,27 @@
 
 ###### 功能组件
 
+[Mckinsey666 / chart-race-react](https://github.com/Mckinsey666/chart-race-react)
+
+> 可视化排行组件
+
+
+
+[braft-editor](https://github.com/margox/braft-editor)
+
+> 基于draft-js的富文本
+
+
+
+[awesome-react-components](https://github.com/brillout/awesome-react-components)
+
+> 组件集合
+
+
+
 [ react-select](https://github.com/JedWatson/react-select)
 
-> rt，选择组件
+> rt，selec选择组件
 
 
 
@@ -278,7 +378,7 @@
 
 [jaredpalmer / formik](https://github.com/jaredpalmer/formik)
 
-> react form组件
+> react form 表单组件
 
 
 
@@ -315,6 +415,12 @@
 
 
 ###### 组件库
+
+[fengyuanchen / viewerjs](https://github.com/fengyuanchen/viewerjs)
+
+> 图片浏览工具
+
+
 
 [mui-org / material-ui](https://github.com/mui-org/material-ui)
 
@@ -400,7 +506,7 @@
 
 
 
-###### 资料
+###### 学习资料
 
 [vue-project-unitTest-with-jest](<https://github.com/holylovelqq/vue-unit-test-with-jest>)
 
@@ -409,6 +515,12 @@
 
 
 [vue-analysis](<https://github.com/ustbhuangyi/vue-analysis>)
+
+> Vue源码分析
+
+
+
+[NLRX-WJC / Learn-Vue-Source-Code](https://github.com/NLRX-WJC/Learn-Vue-Source-Code)
 
 > Vue源码分析
 
@@ -463,15 +575,63 @@
 
 
 
+###### 教程
+
+[luoxue-victor / webpack-box](https://github.com/luoxue-victor/webpack-box)
+
+> webpack相关的最佳实践
+
+
+
+###### 插件
+
+[page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin)
+
+> 骨架屏插件
+
+
+
+[FormidableLabs/webpack-stats-plugin](https://github.com/FormidableLabs/webpack-stats-plugin)
+
+> 每次打包结束后，都生成一个manifest.json 文件，里面存放着本次打包的 public_path bundle list chunk list 文件大小依赖等等信息
+
+
+
+[NekR/offline-plugin](https://github.com/NekR/offline-plugin)
+
+> 快速实现pwa
+
+
+
+#### 应用/功能
+
+##### 滚动
+
+[iamdustan / smoothscroll](https://github.com/iamdustan/smoothscroll)
+
+> Scroll Behavior polyfill，浏览器滚动polyfill
+
+
+
+##### mock
+
+[nock / nock](https://github.com/nock/nock)
+
+> HTTP server mocking and expectations library for Node.js
 
 
 
 
 
+##### 编译
+
+[Captainarash / CaptCC](https://github.com/Captainarash/CaptCC)
+
+> A tiny C compiler written purely in JavaScript.，js编译器
 
 
 
-#### 动画
+##### 动画
 
 [lottie-web](https://github.com/airbnb/lottie-web)
 
@@ -479,7 +639,7 @@
 
 
 
-#### 日志监控
+##### 日志监控
 
 [bombayjs](https://github.com/bombayjs/bombayjs)
 
@@ -487,7 +647,7 @@
 
 
 
-#### 画图
+##### 画图
 
 [rough](https://github.com/pshihn/rough)
 
@@ -495,7 +655,21 @@
 
 
 
-#### 应用
+[alyssaxuu / flowy](https://github.com/alyssaxuu/flowy)
+
+> 流程图
+
+
+
+##### 移动端
+
+[mcuking / mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice)
+
+> 移动web开发实践
+
+
+
+
 
 ##### 虚拟DOM
 
@@ -503,11 +677,93 @@
 
 
 
+##### 手势
 
+[hammerjs / hammer.js](https://github.com/hammerjs/hammer.js)
+
+> A javascript library for multi-touch gestures，移动端手势
+
+
+
+[AlloyTeam / AlloyFinger](https://github.com/AlloyTeam/AlloyFinger)
+
+
+
+[taye / interact.js](https://github.com/taye/interact.js)
+
+> JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)，拖拽、手势
+
+
+
+##### 测试
+
+[mcollina / autocannon](https://github.com/mcollina/autocannon)
+
+> 服务器压力的测试工具
+
+
+
+[avajs / ava](https://github.com/avajs/ava)
+
+> 单元测试工具
+
+
+
+##### 指纹
+
+[Valve / fingerprintjs2](https://github.com/Valve/fingerprintjs2)
+
+> 浏览器指纹工具
+
+
+
+##### H5开发工具
+
+[h5ds / h5ds](https://github.com/h5ds/h5ds)
+
+> H5DS (HTML5 Design software) 这是一款基于WEB的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀的H5制作、建站工具，示范网站：h5ds.com
+
+
+
+##### CMS
+
+[strapi / strapi](https://github.com/strapi/strapi)
+
+> CMS系统
+
+
+
+##### 有趣的东西
+
+[aemkei / jsfuck](https://github.com/aemkei/jsfuck)
+
+> Write any JavaScript with 6 Characters: []()!+ ，用[]()!+写js
+
+
+
+[EtherDream / web-frontend-magic](https://github.com/EtherDream/web-frontend-magic)
+
+> 前端黑魔法  整理
 
 
 
 ### CSS
+
+
+
+#### 颜色
+
+[chinese-colors](https://github.com/zerosoul/chinese-colors)
+
+> 中国系颜色
+
+
+
+[cube-js / cube.js](https://github.com/cube-js/cube.js)
+
+> 测试框架
+
+
 
 
 
@@ -537,6 +793,16 @@
 
 > flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 
+
+
+[phoenixsky / fun_android_flutter](https://github.com/phoenixsky/fun_android_flutter)
+
+> 参考、学习flutter开发demo
+>
+> 骨架屏，开头动画
+
+
+
 ### Go
 
 #### 规范
@@ -555,17 +821,61 @@
 
 
 
+## 开发
 
+### 移动开发
+
+#### 平台
+
+[rock-app / fabu.love](https://github.com/rock-app/fabu.love)
+
+> 移动端发布平台
+
+
+
+
+
+
+
+## 日常语言
+
+
+
+### 英语
+
+[shimohq / chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+
+> 中国程序员容易发音错误的单词
 
 
 
 ## 工具
+
+#### 翻墙
+
+[bannedbook / fanqiang](https://github.com/bannedbook/fanqiang)
+
+> 翻墙集合
+
+
+
+[JadaGates / ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio)
+
+> ss发展记录
+
+
 
 #### 文件
 
 [folder-explorer](https://github.com/d2-projects/folder-explorer)
 
 > 文件树工具
+
+
+
+[nitroshare / nitroshare-desktop](https://github.com/nitroshare/nitroshare-desktop)
+
+> 跨系统文件传输
 
 
 
